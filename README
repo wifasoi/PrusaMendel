@@ -1,32 +1,7 @@
-Prusa Mendel iteration 2
+Prusa Mendel iteration 2 assembled in SolidWorks.
 
-This is second big change, formerly known as felt branch.
-Released 11.11.11 :-)
+The stl files from prusajr are imported into .sldprt files with ".stl" in the filename ("coupling.stl.SLDPRT") under SolidWorks/Imported. These are inserted into parts with the same names as the originals ("coupling.SLDPRT"), saved in the Solidworks directry. In each part file, a layout sketch is used to measure the model and provide a skeleton for use in assembly mates. Mates, sketch relations, etc. should all be made to the skeleton layout sketches rather than imported geometry. Using skeletal modeling techniques, it should be possible to import new .stl models without breaking all of the relations to that part. I'm sure I accidentally left a few relationships to the imported models, but they should be easy to clean up as new 'stl files are importd.
 
-Please read http://reprap.org/wiki/Prusa_Mendel before attempting to build this. There is also PDF (manual-wiki) with backup documentation from reprap.org.  
+I intend to complete an assembly model of the Prusa Iteration 2 as a tool for designing modifications that maintain compatability with Prusa 2.
 
-Imported stuff:
-Extruder by Greg Frost
-Parametric Involute Bevel and Spur Gears by GregFrost
-Belt pulley is http://www.thingiverse.com/thing:3104 by GilesBathgate
-
-Prusa Mendel part list:
-
-To print:
-
-6x frame-vertex-without-foot or 2x -without-foot and 4x -with-foot
-2x coupling
-3x endstop-holder
-1x x-carriage
-1x x-end-idler
-1x x-end-motor
-2x z-motor-mount
-4x belt-clamp
-8x bar-clamp
-2x rod-clamp
-1x y-motor-bracket
-2x pulley
-
-12x pla-bushing 
-
-The Mendel build plate contains all the parts except the pla bushings
+This readme and the SolidWorks directory should be the only files that differ from prusajr/Prusaendel.
