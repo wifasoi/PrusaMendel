@@ -4,4 +4,4 @@ The stl files from prusajr are imported into .sldprt files with ".stl" in the fi
 
 I intend to complete an assembly model of the Prusa Iteration 2 as a tool for designing modifications that maintain compatability with Prusa 2.
 
-This readme and the SolidWorks directory should be the only files that differ from prusajr/Prusaendel.
+This readme, the SolidWorks directory, and the STEP exports directory should be the only files that differ from prusajr/Prusaendel.
