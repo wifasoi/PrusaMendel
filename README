@@ -1,7 +1,9 @@
 Prusa Mendel iteration 2 assembled in SolidWorks.
 
-The stl files from prusajr are imported into .sldprt files with ".stl" in the filename ("coupling.stl.SLDPRT") under SolidWorks/Imported. These are inserted into parts with the same names as the originals ("coupling.SLDPRT"), saved in the Solidworks directry. In each part file, a layout sketch is used to measure the model and provide a skeleton for use in assembly mates. Mates, sketch relations, etc. should all be made to the skeleton layout sketches rather than imported geometry. Using skeletal modeling techniques, it should be possible to import new .stl models without breaking all of the relations to that part. I'm sure I accidentally left a few relationships to the imported models, but they should be easy to clean up as new 'stl files are importd.
+The stl files from prusajr are imported into .sldprt files with ".stl" in the filename ("coupling.stl.SLDPRT") under SolidWorks/Imported. These are inserted into parts with the same names as the originals ("coupling.SLDPRT"), saved in the Solidworks directry. In each part file, a layout sketch is used to measure the model and provide a skeleton for use in assembly mates. Mates, sketch relations, etc. should all be made to the skeleton layout sketches rather than imported geometry. Using skeletal modeling techniques, it should be possible to import new .stl models without breaking all of the relations to that part. I'm sure I accidentally left a few relationships to the imported models, but they should be easy to clean up as new .stl files are importd.
 
-I intend to complete an assembly model of the Prusa Iteration 2 as a tool for designing modifications that maintain compatability with Prusa 2.
+I imported the .stl files into FreeCAD to use some automated cleanup tools there, then exported to STEP for import into SolidWorks. These are the files inthe STEP folder. I kept these intermediate files in case someone is interested in that format. 
 
-This readme, the SolidWorks directory, and the STEP exports directory should be the only files that differ from prusajr/Prusaendel.
+There is a complete LM8UU Prusa 2 assembly (minus the extruder). My ambitions for alterations have gone to complete printer designs, so I doubt I'll spend any more time on this.
+
+This readme, the SolidWorks directory, and the STEP exports directory should be the only files that differ from prusajr/PrusaMendel.
