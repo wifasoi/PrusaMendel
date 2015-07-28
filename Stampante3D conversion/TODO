@@ -1,7 +1,15 @@
--esportare i file cambiati (riguardanti l'asse X)
--crare del clamp per i switch di home
--creare la piattaforma di stampa
--creare porta estrusore
--modificare parti asse X per fare in modo di allineare le pulegge
--creare la puleggia per asse y
--crare i ferma cinghia (asse y e asse X) 
+#DA FARE#
+- Crare del clamp per i switch di home (asse X Y e Z)
+- Creare la piattaforma di stampa (non necessario, solo per rendering e per capire dove fare i buchi per la piattaforma di stampa)
+- Creare porta estrusore
+- Modificare parti asse X per fare in modo di allineare le pulegge
+- Crare i ferma cinghia (asse Y e asse X) e tendicinghia (bisogna decidere la cinghia)
+- Esportare in molti più formati (si acettano richieste)
+
+#DA DECIDERE#
+- Tipo di cinghia, e di conseguenza puleggia (consigliati T2 T2.5; Preferito GT2; larghezza della cinghia verso 5, 6 mm [quello che è disponibile]; permette di creare i fermacinghia appropiati)
+- Estrusore (se comprare un kit, stamparlo; così si può progettare la base di alloggio; permette di finire tutto il piano X)
+- Piano di stampa riscaldato (non è urgente, serve solo per decidere dove creare i buchi per il supporto)
+
+#aggiunte non non necessarie, ma interessanti#
+- Creare una copertura per i cuscinetti con il profili della cinghia scelta

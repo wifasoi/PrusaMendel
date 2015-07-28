@@ -1,0 +1,64 @@
+Barre filettate;;;;
+Parte;Descrizione;Nr.;Misura;Commenti
+threaded rod, frame triangle;Threaded Rod;6;M8x380mm;
+threaded rod, frame horizontal;Threaded Rod;4;M8x300mm;
+threaded rod, Z frame horizontal;Threaded Rod;2;M8x440mm;
+threaded rod, Z lower horizontal;Threaded Rod;1;M8x440mm;
+threaded rod, Z screw;Threaded Rod;2;M8x235mm;
+;;;;
+Barre lisce;;;;
+Parte;Descrizione;Nr.;Misura;Commenti
+smooth rod, X axis;Smooth Rod;2;8x390mm;
+smooth rod, Y axis;Smooth Rod;2;8x395mm;
+smooth rod, Z axis;Smooth Rod;2;8x335mm;
+;;;;
+Cuscinetti;;;;
+Parte;Descrizione;Nr.;Misura;Commenti
+linear bearing LM8UU;Linear bearing;12;;
+"608 ""roller skate"" bearing";6082RS or 608ZZ Bearing;3;;
+;;;;
+Viteria;;;;
+Parte;Descrizione;Nr.;Misura;Commenti
+M8 nut;Nut;100;8mm;
+M8 washer;Washer;100;8mm i.d, 16 e.d;i.d= interna diameter, e.d=esternal diameter
+M3x20 bolt;Bolt;20-50; 3x30mm;
+M3 nut 5.5 mm wide (standard);Nut;20-50;M3;
+M3 washer;Washer;20-50;3mm i.d, 6mm e.d;i.d= interna diameter, e.d=esternal diameter
+M8x30 fender washer;Washer;6;8mm i.d, 30mm e.d;i.d= interna diameter, e.d=esternal diameter
+;;;;
+Pulegge;;;;
+Parte;Descrizione;Nr.;Misura;Commenti
+Timing belt;Timing belt;1;GT2 3mx6mm;To decise
+Pulley;pulley;2;GT2 16 tooth, 5mm bore;To decide, the bore diameter corrispond to the motor shaft diameter
+;;;;
+Cose da stampare con stampante 3D;;;;
+Parte;Descrizione;Nr.;Misura;Commenti
+Frame-feet;For printing;4;;
+Frame-vertex;For printing;2;;
+Z-Motor-clamp;For printing;2;;
+Y-Motor-clamp;For printing;1;;
+wifa_clamp;For printing;6;;
+Y Carriage Plate;To build from wood;1;;
+Z-bar-clamp;For printing;2;;
+Coupling;For printing;2;;
+Coupling-hex_recess;For printing;2;;
+X-motor;For printing;1;;
+X-idle;For printing;1;;
+lm8uu-mount;For printing;4;;
+middle_frame_clamp;For printing;2;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
