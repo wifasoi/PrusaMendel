@@ -26,6 +26,18 @@ M3 nut 5.5 mm wide (standard);Nut;20-50;M3;
 M3 washer;Washer;20-50;3mm i.d, 6mm e.d;i.d= interna diameter, e.d=esternal diameter
 M8x30 fender washer;Washer;6;8mm i.d, 30mm e.d;i.d= interna diameter, e.d=esternal diameter
 ;;;;
+Viti a brugola;;;;
+Parte;Descrizione;Nr.;Misura;Commenti
+M3x8;Hex head bolt;16;3x8mm;
+M3x14;Hex head bolt;16;3x14mm;
+M3x16;Hex head bolt;4;3x16mm;
+M3x18;Hex head bolt;8;3x18mm;
+M3x20;Hex head bolt;12;3x20mm;
+M3x25;Hex head bolt;4;3x25mm;
+M3x30;Hex head bolt;4;3x30mm;
+M3x35;Hex head bolt;4;3x35mm;
+M8x30;Hex head bolt;1;8x30mm;
+;;;;
 Pulegge;;;;
 Parte;Descrizione;Nr.;Misura;Commenti
 Timing belt;Timing belt;1;GT2 3mx6mm;To decise
